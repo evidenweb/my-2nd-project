@@ -1,3 +1,3 @@
 $( document ).ready(function() {
-    $( "div.empty" ).html();
+    $( "div.empty" ).html('<h1>HELLO</h1>');
 });
